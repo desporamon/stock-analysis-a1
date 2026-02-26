@@ -1,6 +1,6 @@
-# Data files (don't commit large files)
-data/
-*.csv
+# Exclude large/raw data files
+data/all_stocks_5yr.csv
+data/benchmark_*
 *.parquet
 
 # Virtual environment
