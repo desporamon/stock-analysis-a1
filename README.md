@@ -1,4 +1,4 @@
-# CSIS 4260 — Assignment 1: Stock Price Analysis & Prediction
+# Stock Price Analysis & Prediction
 
 **Author:** Desmond Chua  
 **Course:** CSIS 4260 — Special Topics in Data Analytics  
