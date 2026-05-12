@@ -1,7 +1,6 @@
 # Stock Price Analysis & Prediction
 
 **Author:** Desmond Chua  
-**Course:** CSIS 4260 — Special Topics in Data Analytics  
 **Date:** February 2026
 
 **Live Dashboard:** https://sp500-desmond-stockprediction.streamlit.app
